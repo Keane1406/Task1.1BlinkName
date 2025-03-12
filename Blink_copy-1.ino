@@ -48,7 +48,7 @@ void loop() {
   delay(1000);                       // E
   
   digitalWrite(LED_BUILTIN, LOW);   // E-GAP-A
-  delay(1000);                       // E-GAP-A
+  delay(2000);                       // E-GAP-A
 
   digitalWrite(LED_BUILTIN, HIGH);  // A1
   delay(1000);                       // A1
